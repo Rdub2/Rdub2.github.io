@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My interests include data science and predictive analytics, statistics, data architecture, agile methodologies, and advocating for data literacy.
 
-### More Information
+I am a Data Architect for an healthcare services company working with BI Tools and Advanced Analytics. I enjoys working collaboratively and communication with professionals of varying different backgrounds.    
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
