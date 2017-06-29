@@ -13,5 +13,5 @@ Please contact me using the following form:
     <input type="submit" value="Send">
 </form>
 
-<!--[Rdub2](http://rdub2.github.io/practicalmachinelearning)
+--[Rdub2](http://rdub2.github.io/practicalmachinelearning)
 
