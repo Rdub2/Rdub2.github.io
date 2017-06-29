@@ -12,6 +12,7 @@ Please contact me using the following form:
     <p>Your message: </p><textarea placeholder="Your message"></textarea>
     <input type="submit" value="Send">
 </form>
-
+<!---
 <>[Rdub2](http://rdub2.github.io/practicalmachinelearning)
+-->
 
