@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
+Please contact me using the following form:
 
 <form action="//formspree.io/rwinters2007@gmail.com" method="POST">
     <p>Name: </p><input type="text" name="name"><br />
@@ -12,5 +13,5 @@ permalink: /contact/
     <input type="submit" value="Send">
 </form>
 
-[Rdub2](http://rdub2.github.io/practicalmachinelearning)
+<!--[Rdub2](http://rdub2.github.io/practicalmachinelearning)
 
