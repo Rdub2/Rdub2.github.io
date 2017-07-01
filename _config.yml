@@ -25,12 +25,12 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: "https://www.quora.com/profile/Ralph-Winters"
+  rss: 
   twitter: rdub2
   stackoverflow: "users/643921/ralph-winters" 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  quora: ralph-winters
+  quora: "https://www.quora.com/profile/Ralph-Winters"
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
