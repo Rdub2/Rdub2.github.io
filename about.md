@@ -11,7 +11,7 @@ I am a Data Architect for a healthcare services company working with BI Tools an
 My analytics work involves working with a combination of different tool sets, such as R, SAS, SQL, and Microsoft Office Products.
 I also enjoy writing and presenting analytic concepts to groups.  Some recent accomplishments include:
 
-[Practical Predictive Analytics - Back to the future with R, Spark and More](https://www.packtpub.com/big-data-and-business-intelligence/practical-predictive-analytics "Packt Publishing Page")
+[Practical Predictive Analytics - Back to the future with R, Spark and More](https://www.amazon.com/Practical-Predictive-Analytics-Ralph-Winters-ebook/dp/B01GOJCXNW/ "Amazon Link")
  
 This book is intended for anyone working in the large scale Enterprise data world, already familiar with relational database systems, who is interested in integrated R into their work. It can also be useful for anyone who has just learned R and is interested in learning about the methodologies, and types of predictive analytics problems that are used in the legacy corporate world.  
 
